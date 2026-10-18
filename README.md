@@ -25,8 +25,8 @@ I turn raw business data into dashboards that answer real questions: which produ
 | # | Project | Tool | What it answers |
 |---|---|---|---|
 | 1 | [Product Analysis Dashboard](https://github.com/YOUR-USERNAME/portfolio-free/tree/main/1-product-analysis-powerbi) | Power BI (5 pages) | Which products, regions and employees drive performance, and where is churn? |
-| 2 | [Cohort Analysis](https://github.com/YOUR-USERNAME/portfolio-free/tree/main/2-cohort-analysis) | [Tool] | How well do customers stay, and what do they spend over time? |
-| 3 | [Revenue Retention (GRR & NRR)](https://github.com/YOUR-USERNAME/portfolio-free/tree/main/3-revenue-retention-grr-nrr) | [Tool] | Are we growing from existing customers, and are we on budget? |
+| 2 | [Cohort Analysis](https://github.com/YOUR-USERNAME/portfolio-free/tree/main/2-cohort-analysis) | [Tableau] | How well do customers stay, and what do they spend over time? |
+| 3 | [Revenue Retention (GRR & NRR)](https://github.com/YOUR-USERNAME/portfolio-free/tree/main/3-revenue-retention-grr-nrr) | [Power BI] | Are we growing from existing customers, and are we on budget? |
 
 👉 **https://github.com/pradeepprateek648-ctrl/powerbi-analytics-portfolio_pkr**
 
